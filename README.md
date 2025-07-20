@@ -6,7 +6,6 @@ This repository contains Java solutions for LeetCode and other DSA problems I'm 
 ## 🧠 Goals
 - Strengthen problem-solving skills
 - Learn DSA concepts through practice
-- Prepare for coding interviews (Google, SAP, TCS, etc.)
 - Maintain consistency with daily/weekly challenges
 
 ## 📚 Topics Covered
