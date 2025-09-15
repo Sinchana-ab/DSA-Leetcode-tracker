@@ -41,7 +41,7 @@ class Solution {
         int n = a.length();
         String longest = "";
         for(int i = 0;i<n;i++){
-            for(int j =i;i<n;j++){
+            for(int j =i;j<n;j++){
                 if(ispalindrome(a, i, j)&& (j-i+1)> longest.length()){
                     longest = a.substring(i,j+1);
                 }
