@@ -29,7 +29,7 @@ This repository contains Java solutions for LeetCode and other DSA problems I'm 
 | 8.  | Type Conversion (Widening/Narrowing)  | Java Basics   |
 
 ## 🚀 How to Use
-- Clone this repo: `git clone https://github.com/sinchana-ab/DSA-LeetCode-Java.git`
+- Clone this repo: `git clone https://github.com/Sinchana-ab/DSA-LeetCode-Java.git`
 - Navigate to a folder, open `.java` files
 - Run using any Java IDE or terminal with `javac` and `java`
 
